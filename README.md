@@ -10,4 +10,4 @@
 | **C3_SimpleBashUtils** | **Team** Разработка утилит Bash по работе с текстом: cat, grep.       |
 | **C5_s21_decimal**     | **Team** Реализация библиотеки s21_decimal.h.       |
 | **C6_s21_matrix**      | **Individual** Реализация библиотеки matrix.h.            |
-| **C7_BrickGame_v1.0**  | **Individual** (In Progress) Реализация «Тетрис» на языке программирования С. |
+| **C7_BrickGame_v1.0**  | **Individual** Реализация «Тетрис» на языке программирования С. |
